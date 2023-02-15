@@ -17,5 +17,4 @@ Wasting time in the gym trying to figure out if certain machines are in use.
 Make it clear that the system can be built, making good use of the available resources and technology. Describe at a very high level the system's architecture, identifying the componenets/modules that will interact. Describe the specific data you will access/store. What languages/toolkits do you intend to use for the development?
 
 ### Challenges and Risks
-What is the single most serious challenge you see in developing the produt on schedule? How will you minimize or mitigate the risk?
 Our team believes one of the most serioues challenges we will see in developing this product is working with the pressure sensor to use weight and time to determine the formula we will use to see if the user is still using the machine. We decided the best way to tackle this is simply by trial and error. Going through each of the possible situtations so that there are no results our software cannot account for.
