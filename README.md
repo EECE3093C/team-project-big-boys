@@ -28,4 +28,4 @@ ___
 
 Group appointed product manager and discussed project scope.  This includes issues that will be faced moving forward as well as weekly meetup times.  Communicated individual responsibilities and plan to possibly create subteams for support where necessary.
 
-Attendance: Josh Miles, Parker Manson, Devyn Strbo, and 
+Attendance: Josh Miles, Parker Manson, Devyn Strbo, and Nathan Rogers
