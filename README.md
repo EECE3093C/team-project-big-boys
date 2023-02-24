@@ -17,3 +17,14 @@ G.E.A.R.S will be constructed with a pressure sensor imbedded into gym padding. 
 
 ### Challenges and Risks
 Our team believes one of the most serious challenges we will see in developing this product is working with the pressure sensor to use weight and time to determine the formula we will use to see if the user is still using the machine. We decided the best way to tackle this is simply by trial and error. Going through each of the possible situations so that there are no results our software cannot account for.
+
+___
+## Team Meetings
+#### Product Manager: Josh Miles
+
+###### Meeting 1
+2/24/2023
+2:00 PM - 3:00 PM
+
+Group appointed product manager and discussed project scope.  This includes issues that will be faced moving forward as well as weekly meetup times.  Communicated individual responsibilities and plan to possibly create subteams for support where necessary.
+Attendance: Josh Miles, 
