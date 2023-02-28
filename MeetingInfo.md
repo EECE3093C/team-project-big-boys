@@ -23,3 +23,5 @@ Front-End Subteam:
 Back-End Subteam:
 - Nathan Rogers
 - Josh Miles
+
+Attendance: Josh Miles, Parker Manson, Devyn Strbo, and Nathan Rogers
